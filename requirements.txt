@@ -1,0 +1,7 @@
+numpy==1.20.0
+opencv-python==4.5.1.48
+Pillow==8.1.0
+pynput==1.7.2
+PySimpleGUI==4.34.0
+pywin32==300
+six==1.15.0
